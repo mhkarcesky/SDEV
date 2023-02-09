@@ -1,0 +1,16 @@
+PS C:\SDEV\Python> & C:/Users/mhkar/AppData/Local/Programs/Python/Python39/python.exe c:/SDEV/Python/NewLamp/Main.py
+Start Lamps: 
+Off     On      Off     Off     Off
+Off     Off     On      Off     Off
+Off     On      Off     On      On
+Off     Off     On      On      Off
+On      Off     Off     On      Off
+Off     Off     On      On      On
+
+New Lamps:
+On      Off     On      On      On
+On      On      Off     On      On
+On      Off     Off     Off     Off
+Off     Off     Off     Off     Off
+Off     On      On      On      On
+On      On      On      On      On

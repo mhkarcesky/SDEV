@@ -1,0 +1,9 @@
+Madison Karcesky
+HWB1
+Output
+
+PS C:\SDEV\Java>  c:; cd 'c:\SDEV\Java'; & 'C:\Program Files\Java\jre1.8.0_341\bin\java.exe' '-cp' 'C:\Users\mhkar\AppData\Roaming\Code\User\workspaceStorage\305519617843eee6b22ab990501cdc54\redhat.java\jdt_ws\Java_1a52a1b7\bin' 'App' 
+Enter a word to encode: 
+madison
+New word: qehmwsr
+Shift: 4
